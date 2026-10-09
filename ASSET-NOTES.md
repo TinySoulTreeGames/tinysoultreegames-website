@@ -1,0 +1,9 @@
+# Banner artwork
+
+Generated with the built-in Imagegen tool on October 8, 2026. Original studio atmosphere artwork, not a gameplay screenshot or a replacement for the owner's official logo. The owner supplied their X profile screenshot as the brand direction: midnight blue, teal soul tree, floating islands, crescent moon and gold details.
+
+Final prompt:
+
+Create an original premium fantasy game studio website banner, wide landscape composition, approximately 3:1 aspect ratio. Painterly highly polished enchanted illustration, midnight navy and deep teal with luminous turquoise and restrained antique gold. A beautiful ancient twisting soul tree with dense turquoise-green glowing foliage and a softly glowing heart in its trunk stands on a floating grassy island, cascading waterfalls disappearing into dark blue clouds. Tiny warm magical lights. A crescent moon and delicate distant stars, a few distant floating islands, evocative and inviting not frightening. On the lower right edge of the tree island, small tasteful wooden scaffolding, a ladder, stacked planks, a tiny warm lantern and a wooden builder's trestle subtly suggest this little world is under construction. Tree and construction details primarily in the right half; left half is quieter dark misty night sky with subtle stars and atmospheric clouds, generous negative space for website text that will be added in HTML. Entire island and tree comfortably within the composition, luxurious hand-painted fantasy key-art appearance, crisp rich detail but restrained glow, sophisticated composition. No text, no lettering, no watermarks, no logos, no human characters, no UI or browser frame. This is studio atmosphere artwork, not a gameplay screenshot.
+
+The lossless generated source is kept in the local project's `artwork` folder; the repository contains the optimized WebP at `public/assets/soul-tree-banner.webp`.
